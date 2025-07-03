@@ -1,0 +1,13 @@
+[LOG] System Started
+[LOG] TakeAway order placed for Tayyab
+[LOG] DineIn order placed for Sami
+[LOG] Searched for served order: Sami
+[LOG] Searched for served order: Tayyab
+[LOG] System Closed
+[LOG] System Started
+[LOG] TakeAway order placed for Tayyab
+[LOG] DineIn order placed for Sami
+[LOG] Searched for served order: Sami
+[LOG] Searched for served order: Tayyab
+[LOG] System Closed
+[LOG] System Started
